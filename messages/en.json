@@ -1,0 +1,134 @@
+{
+  "whatsapp": {
+    "message": "A refined blend inspired by desert calm and starry horizons"
+  },
+  "meta": {
+    "title": "NOVA PARFUM — PARFUM",
+    "description": "A refined blend inspired by desert calm and starry horizons"
+  },
+  "nav": {
+    "story": "Story",
+    "notes": "Details",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "cta": "Order now"
+  },
+  "hero": {
+    "eyebrow": "NOVA PARFUM",
+    "headline": "NOVA Fragrance",
+    "subheadline": "A refined blend inspired by desert calm and starry horizons",
+    "priceLabel": "Starting at",
+    "price": "AED 299",
+    "ctaPrimary": "Order on WhatsApp",
+    "ctaSecondary": "See the details",
+    "scrollHint": "Scroll"
+  },
+  "marquee": [
+    "UAE-wide delivery",
+    "Limited quantity",
+    "100% authentic",
+    "Order on WhatsApp"
+  ],
+  "story": {
+    "eyebrow": "The story",
+    "title": "Born from a Distant Star",
+    "body": "The NOVA story began with a clean concept: capturing the fleeting glow of stars in a luxury fragrance bottle. Warm, sandy notes merge seamlessly with bold, dark accents to craft an unforgettable presence.",
+    "quote": "\"NOVA is not just a scent; it is the silent signature that announces your presence and lingers in your absence.\""
+  },
+  "features": {
+    "eyebrow": "Details",
+    "title": "Unmatched Craftsmanship & Notes",
+    "items": [
+      {
+        "title": "Long-Lasting Projection",
+        "body": "High concentration Extrait de Parfum ensuring your scent lingers throughout the day."
+      },
+      {
+        "title": "Rare & Luxurious Accord",
+        "body": "A harmonious fusion of warm amber, muted woods, and subtle dark ink accents."
+      },
+      {
+        "title": "Precision Glassware",
+        "body": "Weighted, polished glass bottle topped with a solid brushed gold metallic cap."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Experience Quiet Luxury?",
+    "body": "Order your bottle of NOVA via WhatsApp today and enjoy fast delivery to your door.",
+    "button": "Order on WhatsApp"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "brand": "NOVA PARFUM"
+  },
+  "testimonials": {
+    "eyebrow": "The experience",
+    "title": "What They Say",
+    "items": [
+      {
+        "name": "Maya R.",
+        "location": "Dubai",
+        "quote": "The scent feels incredibly refined. Warm, elegant, and not overpowering. I've been wearing it almost every day."
+      },
+      {
+        "name": "Omar K.",
+        "location": "Abu Dhabi",
+        "quote": "NOVA has a very distinctive character. It feels luxurious without trying too hard, and the longevity is impressive."
+      },
+      {
+        "name": "Lina S.",
+        "location": "Sharjah",
+        "quote": "The bottle is beautiful, but the fragrance itself is what surprised me. It has this warm, sophisticated depth that stays with you."
+      },
+      {
+        "name": "Karim A.",
+        "location": "Dubai",
+        "quote": "A very clean and elegant fragrance. I received compliments the first time I wore it."
+      },
+      {
+        "name": "Sara M.",
+        "location": "Ajman",
+        "quote": "I wanted something subtle but memorable, and NOVA really delivers. It has become one of my favorite evening scents."
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "The collection",
+    "title": "A Closer Look",
+    "captions": [
+      "The signature NOVA bottle",
+      "Crafted with quiet precision",
+      "Warm amber, refined woods",
+      "A presence that lingers",
+      "Designed for every detail",
+      "The art of quiet luxury"
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Frequently Asked",
+    "items": [
+      {
+        "q": "How long does the fragrance last?",
+        "a": "NOVA is crafted with a high concentration of fragrance oils, designed to provide a lasting presence throughout the day."
+      },
+      {
+        "q": "Is NOVA suitable for everyday wear?",
+        "a": "Absolutely. Its balanced character makes it versatile enough for everyday wear while still feeling special for evenings and occasions."
+      },
+      {
+        "q": "What does NOVA smell like?",
+        "a": "NOVA combines warm amber, refined woods, and subtle darker accords to create a sophisticated and memorable scent."
+      },
+      {
+        "q": "How should I store my fragrance?",
+        "a": "Keep your bottle away from direct sunlight, heat, and humidity. A cool, dry place will help preserve the fragrance."
+      },
+      {
+        "q": "Do you offer delivery across the UAE?",
+        "a": "Yes. NOVA is available for delivery across the UAE, with delivery times depending on your location."
+      }
+    ]
+  }
+}
