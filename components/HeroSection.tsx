@@ -5,7 +5,7 @@ import Image from "next/image";
 import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
 
-import heroImage from "@/assets/images/1.png";
+import heroImage from "@/assets/Images/1.png";
 import { siteConfig } from "@/lib/config";
 
 const AmbientCanvas = dynamic(() => import("./AmbientCanvas"), {
