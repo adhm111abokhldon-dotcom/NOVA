@@ -3,12 +3,12 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 
-import productImage1 from "./assets/images/2.png";
-import productImage2 from "./assets/images/3.png";
-import productImage3 from "./assets/images/4.png";
-import productImage4 from "./assets/images/5.png";
-import productImage5 from "./assets/images/6.png";
-import productImage6 from "./assets/images/7.png";
+import productImage1 from "@/assets/images/2.png";
+import productImage2 from "@/assets/images/3.png";
+import productImage3 from "@/assets/images/4.png";
+import productImage4 from "@/assets/images/5.png";
+import productImage5 from "@/assets/images/6.png";
+import productImage6 from "@/assets/images/7.png";
 
 const images = [
   productImage1,
