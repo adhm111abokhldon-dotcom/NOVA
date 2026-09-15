@@ -3,12 +3,12 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 
-import productImage1 from "@/assets/images/2.png";
-import productImage2 from "@/assets/images/3.png";
-import productImage3 from "@/assets/images/4.png";
-import productImage4 from "@/assets/images/5.png";
-import productImage5 from "@/assets/images/6.png";
-import productImage6 from "@/assets/images/7.png";
+import productImage1 from "./assets/images/2.png";
+import productImage2 from "./assets/images/3.png";
+import productImage3 from "./assets/images/4.png";
+import productImage4 from "./assets/images/5.png";
+import productImage5 from "./assets/images/6.png";
+import productImage6 from "./assets/images/7.png";
 
 const images = [
   productImage1,
@@ -37,7 +37,7 @@ export function GallerySection() {
           {images.map((image, i) => (
             <figure
               key={i}
-              className="group relative flex min-h-[260px] flex-col justify-end overflow-hidden rounded-2xl border border-dashed border-ink/15 bg-bg-deep p-5 transition-transform duration-500 ease-premium hover:scale-[1.015]"
+              className="group relative flex min-h-65 flex-col justify-end overflow-hidden rounded-2xl border border-dashed border-ink/15 bg-bg-deep p-5 transition-transform duration-500 ease-premium hover:scale-[1.015]"
             >
               <div className="absolute inset-0">
                 <Image
